@@ -3174,37 +3174,38 @@ An unfortunate lab accident left her with a deathly fear of fire.</desc>
 		<titleShort>Physicist</titleShort>
 		<desc>NAME performed cutting-edge physics research. She wanted to help build a better and more peaceful future.</desc>
 	</ParticlePhysicist6>
+-->
 
 	<?solid Russell "Rusty" Shackleford (Male) ?>
 	<SpeederRacer68>
-		<title>Speeder racer</title>
-		<titleShort>Racer</titleShort>
-		<desc>Rusty was the son of a fern farmer in the towering forests of Khalderia.
+		<title>Гонщик</title>
+		<titleShort>Гонщик</titleShort>
+		<desc>NAME с ранних лет работает на папоротниковой ферме своего отца в исполинских лесах Халдерии.
 
-He found his first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of his homeworld. The seedy underworld of racing also forced him to learn to defend himself with a quick word or a quicker shot.</desc>
+HECAP находит радость в гонках на спидерах и рассекает туда-сюда под пологом массивных крон зелёного раздолья HIS родного края. Обратная сторона мира подпольных гонок быстро учит HIS стоять за себя правильным словом или метким выстрелом.</desc>
 	</SpeederRacer68>
 
 	<?solid Russell "Rusty" Shackleford (Male) ?>
 	<DefenseLawyer2>
-		<title>Defense lawyer</title>
-		<titleShort>Lawyer</titleShort>
-		<desc>NAME found that HE could make more money with a quick word than a blaster. Seeking a job where HIS silver tongue could be useful, HE turned to the law.
+		<title>Адвокат</title>
+		<titleShort>Юрист</titleShort>
+		<desc>NAME понимает, что правильным словом  HE заработает больше денег, чем при помощи бластера. В поисках работы, где бы пригодился HIS хорошо подвешенный язык, NAME решает остановиться на юриспруденции.
 
-HECAP often defended the illegal speeder racers HE grew up with.</desc>
+Пользуясь своим положением, HE часто выручает своих старых друзей-гонщиков.</desc>
 	</DefenseLawyer2>
 
 	<?solid Niklas "Niklas" Fischer (Male) ?>
 	<MercenaryRecruit61>
-		<title>Mercenary recruit</title>
-		<titleShort>Recruit</titleShort>
-		<desc>Born to a long line of off-world mercenaries, NAME grew up in a busy trading hub. At a young age, HE was recruited into one of the mercenary crews.</desc>
+		<title>Наёмник-новобранец</title>
+		<titleShort>Наёмник</titleShort>
+		<desc>NAME – потомок многих поколений путешествующих между мирами наёмников — вырастает в месте с оживлённой торговлей. В юном возрасте HE пополняет ряды одного из наёмных подразделений.</desc>
 	</MercenaryRecruit61>
 
 	<?solid Niklas "Niklas" Fischer (Male) ?>
 	<Ranger8>
-		<title>Ranger</title>
-		<titleShort>Ranger</titleShort>
-		<desc>NAME lived alone, deep in a forest. HECAP protected the wildlife against poachers, and learned to satisfy HIS own material needs without outside help.</desc>
+		<title>Егерь</title>
+		<titleShort>Егерь</titleShort>
+		<desc>NAME живёт в одиночестве, в дремучем лесу. HECAP защищает дикую природу от браконьеров и учится удовлетворять свои материальные потребности без посторонней помощи.</desc>
 	</Ranger8>
 
 	<?solid Christophe Géradon (Male) ?>
@@ -3261,6 +3262,7 @@ HECAP strived every day to expand his intellectual abilities.</desc>
 HECAP loved technology research, and hoped to improve human life by doing it.</desc>
 	</TechnologyDoctor90>
 
+<!--
 	<?solid Cole "Brick" Schmidt (Male) ?>
 	<PitGladiator18>
 		<title>Pit gladiator</title>
